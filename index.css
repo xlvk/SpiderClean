@@ -9734,3 +9734,9 @@ figcaption {
     font-style: normal;
     font-display: swap;
 }
+
+
+.ToJus {
+    text-align: justify;
+    text-justify: inter-word;
+}
