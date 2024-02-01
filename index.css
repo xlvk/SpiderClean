@@ -5639,7 +5639,7 @@ figcaption {
 
 .gradient-para {
     -webkit-text-fill-color: transparent;
-    background-image: linear-gradient(rgba(255, 255, 255, .8), #fff);
+    background-image: linear-gradient(rgba(255, 255, 255, .91), #fff);
     -webkit-background-clip: text;
     background-clip: text;
     font-size: 1.25rem
